@@ -1,1 +1,2 @@
-# segundo-desafio-do-felipao
+# segundo-desafio-do-felipao 
+#Calculadora de partidas Rankeadas
